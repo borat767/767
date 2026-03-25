@@ -1,8 +1,8 @@
 ## Задание с описанием и историей Docker-а:
-# [DockerInfo](../MyNotes/DockerInfo/README.md)
+# [DockerInfo](../myNotes/DockerInfo/README.md)
 
 ## Задания по Docker:
-# [Stuff for Docker](../MyNotes/dockers-Stuff/DockREADME.md)
+# [Stuff for Docker](../myNotes/dockers-Stuff/DockREADME.md)
 
 # Синхронизирование репозитория
 
