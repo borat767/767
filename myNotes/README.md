@@ -2,7 +2,7 @@
 # [DockerInfo](../myNotes/DockerInfo/README.md)
 
 ## Задания по Docker:
-# [Stuff for Docker](../myNotes/dockers-Stuff/DockREADME.md)
+# [Docker](../myNotes/dockers-Stuff/DockREADME.md)
 
 # Синхронизирование репозитория
 
