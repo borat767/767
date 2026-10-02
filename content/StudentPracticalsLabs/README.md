@@ -15,5 +15,3 @@
 - [Самостоятельная работа по созданию контейнеров с помощью Dockerfile](/content/StudentPracticalsLabs/DockerfileTasks.md)
 - [Самостоятельная работа по командной строке Bash](/content/StudentPracticalsLabs/bashCLI.md)
 - [Задания по готовым Docker-образам](/content/StudentPracticalsLabs/DockerImages.md)
-
-> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
