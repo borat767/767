@@ -136,5 +136,3 @@ cd .. ; rm -rf libredb-studio
 ### Полезные ссылки
 
 - [LibreDB Studio - анонс новой версии](https://www.opennet.ru/opennews/art.shtml?num=66216)
-
-> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
