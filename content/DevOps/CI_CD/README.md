@@ -23,5 +23,3 @@
 
 -  CI/CD (Deploy)
     - [CI/CD на GitHub Pages](/content/DevOps/CI_CD/Pipelines/CI_Deploy_GitHub_Pages.md)
-
-> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
