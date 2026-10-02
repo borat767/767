@@ -201,5 +201,3 @@ docker run --rm -it my-node-app:latest /bin/sh
 ```shell
 exit
 ```
-
-> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
