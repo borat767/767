@@ -184,3 +184,5 @@ docker run --rm my-python-app:test
 ```shell
 docker run --rm -it my-python-app:test /bin/bash
 ```
+
+> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!

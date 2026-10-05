@@ -20,3 +20,5 @@
 - [DevOps](/content/DevOps/DevOps.md)
 - [CI/CD](/content/DevOps/CI_CD.md)
 - []()
+
+> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
